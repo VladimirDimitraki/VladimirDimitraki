@@ -14,3 +14,5 @@
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
 
 [![TELEGRAM](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=Gmail)](https://t.me/biggpapalXX)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
