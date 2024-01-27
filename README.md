@@ -1,5 +1,5 @@
+ # О себе
   # Я изучаю программирование в Школе 21. В рамках программы школы начал осваивать программирование с языка C и C++. Для меня интересно направление backend-разработка. Опыт в этом направлении получаю из проектов школьной программы.
-
 
 ## Languages and Tools
 
@@ -13,6 +13,6 @@
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
 
-[![TELEGRAM](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=Gmail)](https://t.me/biggpapalXX)
+[![GMAIL](https://img.shields.io/badge/<GMAIL>dimitraki666@gmail.com-090909?style=for-the-badge&logo=Gmail)]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
