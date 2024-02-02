@@ -16,4 +16,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
 ![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
