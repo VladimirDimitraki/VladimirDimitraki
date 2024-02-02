@@ -13,6 +13,4 @@
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VladimirDimitraki)](https://github.com/KnlnKS/leetcode-stats)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/VladimirDimitraki?theme=dark&font=IBM%20Plex%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VladimirDimitraki?theme=dark&font=IBM%20Plex%20Sans%20Devanagari?ext=activity)
