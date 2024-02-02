@@ -13,5 +13,4 @@
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
 
-
-![Leetcode Stats](https://github.com/VladimirDimitraki/LeetCode/vladimirdimitraki?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VladimirDimitraki?ext=activity)
