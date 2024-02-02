@@ -15,4 +15,4 @@
 
 ![LEETCODE](https://img.shields.io/badge/LeetCode-https://leetcode.com/VladimirDimitraki/-090909?style=for-the-badge&logo=leetcode)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VladimirDimitraki?theme=dark&font=IBM%20Plex%20Sans%20Devanagari)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VladimirDimitraki?ext=activity)
