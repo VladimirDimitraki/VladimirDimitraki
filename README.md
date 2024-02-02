@@ -16,4 +16,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Libre%20Barcode%20EAN13%20Text)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=IBM%20Plex%20Sans%20Hebrew)
