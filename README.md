@@ -14,5 +14,5 @@
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/VladimirDimitraki/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
-![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
+[![CodeFactor](https://www.codefactor.io/repository/github/VladimirDimitraki/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/VladimirDimitraki/leetcode-stats-card)
+![](https://leetcard.jacoblin.cool/VladimirDimitraki?ext=activity)
