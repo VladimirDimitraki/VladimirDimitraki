@@ -8,6 +8,7 @@
 ![C++](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=Postgresql)
 ![C++](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=QT)
 ![C++](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
+![C++](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Swift)
 
 ## Follow me ##
 
