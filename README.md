@@ -9,6 +9,7 @@
 ![C++](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=QT)
 ![C++](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 ![C++](https://img.shields.io/badge/Swift-090909?style=for-the-badge&logo=Swift)
+![C++](https://img.shields.io/badge/Swift-090909?style=for-the-badge&logo=Objective-C)
 
 ## Follow me ##
 
