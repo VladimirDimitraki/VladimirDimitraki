@@ -8,7 +8,6 @@
 ![C++](https://img.shields.io/badge/С++-090909?style=for-the-badge&logo=Cplusplus)
 ![C++](https://img.shields.io/badge/Swift-090909?style=for-the-badge&logo=Swift)
 ![SwiftRx in SwiftUI](https://img.shields.io/badge/SwiftRx-090909?style=for-the-badge&logo=SwiftRx)
-![Swift in SwiftUI](https://img.shields.io/badge/Swift-090909?style=for-the-badge&logo=Swift)
 ![C++](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=Postgresql)
 ![C++](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=QT)
 ![C++](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
