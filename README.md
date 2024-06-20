@@ -14,7 +14,8 @@
 
 ## Проекты
 
-[![iOS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/Gif/small_ScreenRecording2024-06-20at1.00.21PM-ezgif.com-video-to-gif-converter.gif?raw=true&size=32x32)](https://github.com/VladimirDimitraki/RecipeAppiOS)
+[![iOS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/Gif/small_ScreenRecording2024-06-20at1.00.21PM-ezgif.com-video-to-gif-converter.gif?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
+
 
 
 ## Follow me ##
