@@ -14,7 +14,7 @@
 
 ## Проекты
 iOS app recipe
-![OS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/icon.png?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
+(https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/icon.png?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
 
 
 ## Follow me ##
