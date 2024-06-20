@@ -14,7 +14,7 @@
 
 ## Проекты
 
-[![iOS app recipe]](https://github.com/VladimirDimitraki/RecipeAppiOS)
+![iOS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS)
 
 
 
