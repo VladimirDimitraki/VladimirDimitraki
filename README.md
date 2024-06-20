@@ -14,13 +14,11 @@
 
 ## Проекты
 iOS app recipe
-(https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/icon.png?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
-
+(https://github.com/VladimirDimitraki/RecipeAppiOS)
 
 ## Follow me ##
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki)](https://github.com/anuraghazra/github-readme-stats)
 
