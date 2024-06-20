@@ -13,9 +13,8 @@
 ![C++](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 
 ## Проекты
-
-![iOS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS)
-
+iOS app recipe
+![OS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/icon.png?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
 
 
 ## Follow me ##
