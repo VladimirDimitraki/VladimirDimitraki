@@ -14,7 +14,7 @@
 
 ## Проекты
 
-[![Screenshot 2024-06-20 at 5.22.47 PM]](https://github.com/VladimirDimitraki/RecipeAppiOS)
+[![iOS app recipe](https://github.com/VladimirDimitraki/RecipeAppiOS/blob/main/icon.png?raw=true)](https://github.com/VladimirDimitraki/RecipeAppiOS)
 
 ## Follow me ##
 
