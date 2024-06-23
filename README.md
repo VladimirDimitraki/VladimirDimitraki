@@ -9,7 +9,6 @@
 ![Objective-C](https://img.shields.io/badge/Objective--C-090909?style=for-the-badge&logo=obj-c&size=large)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&size=large)
 ![Swift](https://img.shields.io/badge/Swift-090909?style=for-the-badge&logo=Swift&size=large)
-![SwiftRx in SwiftUI](https://img.shields.io/badge/SwiftRx-090909?style=for-the-badge&logo=SwiftRx&size=large)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=Postgresql&size=large)
 ![QT](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=QT&size=large)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&size=large)
