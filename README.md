@@ -1,6 +1,5 @@
  # О себе
-# С 2023 года обучаюсь в Школе программирования 21 от Сбер.
-# Основным направлением выбрал для себя мобильную разработку. В рамках программы школы начал осваивать программирование с языка С и С++, В данный момент изучаю Swift Опыт в этом направлении получаю из проектов школьной программы.
+# С 2023 года обучаюсь в Школе программирования 21 от Сбер Основным направлением выбрал для себя мобильную разработку. В рамках программы школы начал осваивать программирование с языка С и С++, В данный момент изучаю Swift Опыт в этом направлении получаю из проектов школьной программы. 
 
 ## Languages
 
@@ -21,7 +20,7 @@ iOS app recipe
 
 ## Follow me ##
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/biggpapalXX)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=Telegram)](https://t.me/dimitrakiV)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDimitraki)](https://github.com/anuraghazra/github-readme-stats)
 
