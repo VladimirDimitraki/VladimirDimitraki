@@ -1,6 +1,6 @@
  # О себе
 
-[Example PDF](iOSDeveloper(3)page-0001.jpg)
+![Example PDF](iOSDeveloper(3)page-0001.jpg)
 
 
 ## Проекты
