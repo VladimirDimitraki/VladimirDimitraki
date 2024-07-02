@@ -1,6 +1,6 @@
  # О себе
 
-![Example PDF](iOS%20Developer%20(3)_page-0001.jpg)
+![Example PDF](iOS%20Developer%20(4)-1.jpg)
 
 ## Проекты
 iOS app recipe
